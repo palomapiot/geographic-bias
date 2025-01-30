@@ -21,13 +21,13 @@ Soon! 🚀
 In the `data/` directory, you will find the IDs and labels used in our research. For those interested in the complete dataset, it can be accessed [here](https://huggingface.co/datasets/irlab-udc/metahate).
 ## Citation 📑
 
-If you use this any part of the code included in this repository, please cite the following reference:
+If you use this any part of the code included in this repository or the Geographic MetaHate dataset, please cite the following reference:
 
 ```bibtex
 Soon! 🚀
 ```
 
-If you use MetaHate dataset, please cite the following reference:
+If you use MetaHate dataset or Geographic MetaHate dataset, please cite the following reference:
 
 ```bibtex
 @article{Piot_Martín-Rodilla_Parapar_2024,
