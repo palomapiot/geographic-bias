@@ -4,7 +4,7 @@
 
 ## Overview 🌟
 
-This project presents a debias tuning technique for mitigate bias in LLMs, specifically, geographic bias.
+This project presents a debias tuning technique to mitigate bias in LLMs, specifically, geographic bias.
 
 ## Models <img src="https://huggingface.co/favicon.ico" alt="Hugging Face" width="28" style="vertical-align: middle;"/>
 
@@ -14,17 +14,25 @@ Soon! 🚀
 
 - **`data/`** - Directory containing the datasets used in the research.
 - **`debias-tuning/`** - Directory with the code for the models.
-- **`prompts/`** - Directory holding the prompts utilized for training and evaluation.
+- **`prompts/`** - Directory holding the prompts utilised for training and evaluation.
 
 ## Data Access 🔍
 
 In the `data/` directory, you will find the IDs and labels used in our research. For those interested in the complete dataset, it can be accessed [here](https://huggingface.co/datasets/irlab-udc/metahate).
 ## Citation 📑
 
-If you use this any part of the code included in this repository or the Geographic MetaHate dataset, please cite the following reference:
+If you use any part of the code included in this repository or the Geographic MetaHate dataset, please cite the following reference:
 
 ```bibtex
-Soon! 🚀
+@misc{piot2025personalisationprejudiceaddressinggeographic,
+      title={Personalisation or Prejudice? Addressing Geographic Bias in Hate Speech Detection using Debias Tuning in Large Language Models}, 
+      author={Paloma Piot and Patricia Martín-Rodilla and Javier Parapar},
+      year={2025},
+      eprint={2505.02252},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.02252}, 
+}
 ```
 
 If you use MetaHate dataset or Geographic MetaHate dataset, please cite the following reference:
