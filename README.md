@@ -64,7 +64,11 @@ The authors thank the funding from the Horizon Europe research and innovation pr
 
 ## License 📜
 
-Soon! 🚀
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
+
+The Apache License 2.0 is an open-source license that allows you to use the software for any purpose, to distribute it, to modify it, and to distribute modified versions of the software under the terms of the license.
+
+For more details, please refer to the Apache License 2.0.
 
 ## Contact 📬
 
