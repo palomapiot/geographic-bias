@@ -70,6 +70,6 @@ Soon! 🚀
 
 For further questions, inquiries, or discussions related to this project, please feel free to reach out via email:
 
-- **Email:** [anonymous](mailto:anonymous)
+- **Email:** [paloma.piot@udc.es](mailto:paloma.piot@udc.es)
 
 If you encounter any issues or have specific questions about the code, we recommend opening an [issue on GitHub](anonymous) for better visibility and collaboration.
