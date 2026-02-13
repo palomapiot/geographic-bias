@@ -1,6 +1,6 @@
 # Personalisation or Prejudice? Addressing Geographic Bias in Hate Speech Detection using Debias Tuning in Large Language Models
 
-
+This work was accepted at the 20th International AAAI Conference on Web and Social Media (ICWSM 2026). Preprint [here](https://arxiv.org/abs/2505.02252)! 📄
 
 ## Overview 🌟
 
