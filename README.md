@@ -1,6 +1,6 @@
 # Personalisation or Prejudice? Addressing Geographic Bias in Hate Speech Detection using Debias Tuning in Large Language Models
 
-This work was accepted at the 20th International AAAI Conference on Web and Social Media (ICWSM 2026). Preprint [here](https://arxiv.org/abs/2505.02252)! 📄
+This work was accepted at the 20th International AAAI Conference on Web and Social Media (ICWSM 2026). Paper [here]([https://arxiv.org/abs/2505.02252](https://ojs.aaai.org/index.php/ICWSM/article/view/42726))! 📄
 
 ## Overview 🌟
 
@@ -24,14 +24,17 @@ In the `data/` directory, you will find the IDs and labels used in our research.
 If you use any part of the code included in this repository or the Geographic MetaHate dataset, please cite the following reference:
 
 ```bibtex
-@misc{piot2025personalisationprejudiceaddressinggeographic,
-      title={Personalisation or Prejudice? Addressing Geographic Bias in Hate Speech Detection using Debias Tuning in Large Language Models}, 
-      author={Paloma Piot and Patricia Martín-Rodilla and Javier Parapar},
-      year={2025},
-      eprint={2505.02252},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2505.02252}, 
+@article{Piot_Martín-Rodilla_Parapar_2026,
+      title={Personalisation or Prejudice? Addressing Geographic Bias in Hate Speech Detection Using Debias Tuning In Large Language Models},
+      volume={20},
+      url={https://ojs.aaai.org/index.php/ICWSM/article/view/42726}, DOI={10.1609/icwsm.v20i1.42726},
+      abstractNote={Commercial Large Language Models (LLMs) have recently incorporated memory features to deliver personalised responses. This memory retains details such as user demographics and individual characteristics, allowing LLMs to adjust their behaviour based on personal information. However, the impact of integrating personalised information into the context has not been thoroughly assessed, leading to questions about its influence on LLM behaviour. Personalisation can be challenging, particularly with sensitive topics. In this paper, we examine various state-of-the-art LLMs to understand their behaviour in different personalisation scenarios, specifically focusing on hate speech. We prompt the models to assume country-specific personas and use different languages for hate speech detection. Our findings reveal that context personalisation significantly influences LLMs’ responses in this sensitive area. To mitigate these unwanted biases, we fine-tune the LLMs by penalising inconsistent hate speech classifications made with and without country or language-specific context. The refined models demonstrate improved performance in both personalised contexts and when no context is provided.},
+      number={1},
+      journal={Proceedings of the International AAAI Conference on Web and Social Media},
+      author={Piot, Paloma and Martín-Rodilla, Patricia and Parapar, Javier},
+      year={2026},
+      month={May},
+      pages={1849–1862}
 }
 ```
 
